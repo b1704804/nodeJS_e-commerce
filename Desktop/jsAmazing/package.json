@@ -1,0 +1,24 @@
+{
+  "name": "jsamazing",
+  "version": "1.0.0",
+  "description": "JS AMAZING",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1704804/nodeJS_e-commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b1704804/nodeJS_e-commerce/issues"
+  },
+  "homepage": "https://github.com/b1704804/nodeJS_e-commerce#readme"
+}
